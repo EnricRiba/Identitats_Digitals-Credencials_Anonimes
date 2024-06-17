@@ -13,4 +13,5 @@ Per tal de fer més fàcil l'accès i compilar el codi deiaxrà alguns comentari
 6.2.4  Sistema de verificació d'edat per protegir els menors d'edat -> Pujo tota la informació que he trobat sobre el projecte, no hi ha cap tipus de codi publicat.
 
 Autor: Enric Riba i Sáez
+
 Data: 17/06/2024
